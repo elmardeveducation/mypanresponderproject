@@ -58,6 +58,7 @@ this._panResponder = PanResponder.create({
   }
 }
 
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
